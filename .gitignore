@@ -36,6 +36,7 @@ spring-*/src/main/java/META-INF/MANIFEST.MF
 *.iml
 *.ipr
 *.iws
+*.zip
 .idea
 out
 test-output
